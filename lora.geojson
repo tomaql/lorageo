@@ -1,1 +1,1 @@
-{"type": "FeatureCollection","features": [{"type":"Feature","geometry":{},"properties":{"deviceName":"adeunis1","gtw-id":"aql-DC6","rssi":-111,"snr":1,"timestamp":"2018-08-02T10:20:02.992Z","marker-color":"#6c20e2"}}]}
+{"type": "FeatureCollection","features": [{"type":"Feature","geometry":{"type":"Point","coordinates":[-1.5405,53.7926]},"properties":{"deviceName":"adeunis1","gtw-id":"aql-DC6","rssi":-115,"snr":-6.2,"timestamp":"2018-08-02T10:25:31.615696Z","marker-color":"#710ede"}}]}
