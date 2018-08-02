@@ -87,4 +87,5 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.54033,53.79232]},"properties":{"deviceName":"adeunis1","gtw-id":"aql-DC6","rssi":-117,"snr":0.2,"timestamp":"2018-08-02T16:05:03.737059Z","marker-color":"#7305db"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.5405,53.7923]},"properties":{"deviceName":"adeunis1","gtw-id":"aql-DC6","rssi":-115,"snr":4,"timestamp":"2018-08-02T16:06:03.723938Z","marker-color":"#710ede"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.54033,53.79252]},"properties":{"deviceName":"adeunis1","gtw-id":"aql-DC6","rssi":-117,"snr":4.2,"timestamp":"2018-08-02T16:07:03.725836Z","marker-color":"#7305db"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-1.54067,53.79245]},"properties":{"deviceName":"adeunis1","gtw-id":"aql-DC6","rssi":-115,"snr":3.5,"timestamp":"2018-08-02T16:08:03.727845Z","marker-color":"#710ede"}}]}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-1.54067,53.79245]},"properties":{"deviceName":"adeunis1","gtw-id":"aql-DC6","rssi":-115,"snr":3.5,"timestamp":"2018-08-02T16:08:03.727845Z","marker-color":"#710ede"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-1.5405,53.79242]},"properties":{"deviceName":"adeunis1","gtw-id":"aql-DC6","rssi":-115,"snr":4,"timestamp":"2018-08-02T16:09:03.713739Z","marker-color":"#710ede"}}]}
